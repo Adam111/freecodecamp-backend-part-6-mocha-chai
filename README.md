@@ -1,4 +1,4 @@
-FCC Test Challenges Prototype 
-============================
+**freeCodeCamp** - Information Security and Quality Assurance
+------
 
-QA with mocha & chai
+**Quality Assurance and Testing with Chai**
